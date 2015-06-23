@@ -1,6 +1,6 @@
 # Contributing
 
-To make this repo a bit different, the suggested links should ideally be links to projects that you've contributed to, so have an idea of how accessible the project may be to a junior developer. Otherwise, add repos with specific labels such as "beginner," "starter" etc.
+To make this repo a bit different, the suggested links should ideally be links to projects that you've contributed to, so have an idea of how accessible the project may be to a junior developer. Otherwise, add repos that flag issues with specific labels such as "beginner," "starter" etc.
 
 To submit a new repo suggestion, please follow the format of the existing entries e.g.
 
