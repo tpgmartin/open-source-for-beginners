@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo is my attempt to answer the age old newbie question, "how do I get involved in open source project?" Although there are plenty of resources out there to make it fairly straightforward to find relevant projects, these search tools often do not return the most accessible projects or those with current, beginner friendly issues to tackle. 
+This repo is my attempt to answer the age old newbie question, "how do I get involved in open source project?" Although there are plenty of resources out there to make it fairly straightforward to find relevant projects, these search tools often do not return the most accessible projects or those with current, beginner friendly issues to tackle. Projects submitted here should ideally be those you yourself have worked on. Please see [CONTRIBUTING.md](https://github.com/tpgmartin/open-source-for-beginners/blob/master/CONTRIBUTING.md) for further details.
 
 This repo should be a complete reference on contributing to open source. It will contain resources on the basics of open source, plenty of repos needing help, as well as some miscellaneous resources. 
 
@@ -11,7 +11,11 @@ Please feel free to submit pull requests!
 ## Repos
 
 ### Front-end
-* [Foundation](https://github.com/zurb/foundation)
+* [Foundation](https://github.com/zurb/foundation),
+* [PurifyCSS](https://github.com/purifycss/purifycss): Remove unused CSS
+
+### Grunt
+* [Grunt-purifycss](https://github.com/purifycss/grunt-purifycss): Grunt plugin for PurifyCSS
 
 ### JavaScript
 * [Brackets](https://github.com/adobe/brackets)
