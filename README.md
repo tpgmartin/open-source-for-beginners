@@ -25,4 +25,5 @@ Please feel free to submit pull requests!
 * [CodeTriage](http://www.codetriage.com/): Sign up to receive a different open issue in your inbox every day from your favorite GitHub repos,
 * [DocsDoctor](http://www.docsdoctor.org/): Sign up to receive documented method or class in your inbox every day from your favorite GitHub repos,
 * [Explore GitHub](https://github.com/explore): Browse projects by category,
+* [Up For Grabs](http://up-for-grabs.net/): A list of projects which have curated tasks specifically for new contributors,
 * [Where can I find Open Source Projects to work on?](https://help.github.com/articles/where-can-i-find-open-source-projects-to-work-on/)
