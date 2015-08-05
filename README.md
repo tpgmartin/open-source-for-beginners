@@ -20,8 +20,11 @@ Please feel free to submit pull requests!
 ### JavaScript
 * [Brackets](https://github.com/adobe/brackets)
 
+### NPM
+* [npm-css](https://github.com/defunctzombie/npm-css): Require CSS from node modules with `@import` syntax
+
 ## Miscellaneous
-* [Agile Ventures](http://www.agileventures.org/): A non-profit organization dedicated to crowdsourced learning and project development.
+* [Agile Ventures](http://www.agileventures.org/): A non-profit organization dedicated to crowdsourced learning and project development,
 * [CodeTriage](http://www.codetriage.com/): Sign up to receive a different open issue in your inbox every day from your favorite GitHub repos,
 * [DocsDoctor](http://www.docsdoctor.org/): Sign up to receive documented method or class in your inbox every day from your favorite GitHub repos,
 * [Explore GitHub](https://github.com/explore): Browse projects by category,
